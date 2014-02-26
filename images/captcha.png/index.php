@@ -16,12 +16,11 @@
 	
 	$fonts = array();
 	// add your fonts here
-	
-	//$fonts[] = "/data/fonts/averia.ttf";
-	//$fonts[] = "/data/fonts/bbc.ttf";
-	//$fonts[] = "/data/fonts/bybsy.ttf";
-	//$fonts[] = "/data/fonts/gtw.ttf";
-	//$fonts[] = "/data/fonts/newscycle.ttf";
+	$fonts[] = "../../fonts/averia.ttf";
+	$fonts[] = "../../fonts/bbc.ttf";
+	$fonts[] = "../../fonts/bybsy.ttf";
+	$fonts[] = "../../fonts/gtw.ttf";
+	$fonts[] = "../../fonts/newscycle.ttf";
 	
 	$numberOfBackgroundLines = 50;
 	$thicknesOfBackgroundLines = 2;
